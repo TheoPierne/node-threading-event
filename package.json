@@ -1,0 +1,24 @@
+{
+  "name": "node-threading-event",
+  "version": "1.0.0",
+  "description": "An implementation of the threading.Event Python package",
+  "main": "src/index.js",
+  "typings": "index.d.ts",
+  "scripts": {
+    "test": "node src/test"
+  },
+  "keywords": ["threading", "threading.Event", "python", "implementation", "event"],
+  "author": "Théo Pierné <theo.pierne2@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/TheoPierne/node-threading-event",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheoPierne/node-threading-event.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TheoPierne/node-threading-event/issues"
+  },
+  "engines": {
+    "node": ">=15.0.0"
+  }
+}
