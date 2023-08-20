@@ -1,9 +1,9 @@
 {
   "name": "node-threading-event",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An implementation of the threading.Event Python package",
   "main": "src/index.js",
-  "typings": "index.d.ts",
+  "types": "index.d.ts",
   "scripts": {
     "test": "node src/test"
   },
