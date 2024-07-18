@@ -1,6 +1,6 @@
 {
   "name": "node-threading-event",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An implementation of the threading.Event Python package",
   "main": "src/index.js",
   "types": "index.d.ts",
@@ -19,6 +19,6 @@
     "url": "https://github.com/TheoPierne/node-threading-event/issues"
   },
   "engines": {
-    "node": ">=15.0.0"
+    "node": ">=16.0.0"
   }
 }
