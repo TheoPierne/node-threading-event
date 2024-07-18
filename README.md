@@ -4,7 +4,7 @@ A simple and lightweight implementation of `threading.Event` in Node.js
 
 ## Installation
 
-**Node.js 15.0.0 or newer is required.**
+**Node.js v16.0.0 or newer is required.**
 
 ```sh
 npm install node-threading-event
